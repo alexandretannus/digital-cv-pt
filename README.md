@@ -3,6 +3,7 @@
 
 ## Projetos no Github
 ### Backend
+
 Projeto |  Linguagem/Framework | Origem
 ------- | -------------------- | ------
 [API Algamoney](https://github.com/alexandretannus/curso-fullstack-algaworks/tree/master/algamoney-api)  | Java Spring | Curso Fullstack Angular Spring Algaworks
@@ -10,16 +11,19 @@ Projeto |  Linguagem/Framework | Origem
 [API Beerstock](https://github.com/alexandretannus/gft-dio-beerstock)| Java Spring | Bootcamp GFT DIO
 
 ### Frontend
+
 Projeto |  Linguagem/Framework | Origem
 ------- | -------------------- | ------
 [UI Algamoney](https://github.com/alexandretannus/curso-fullstack-algaworks/tree/master/algamoney-ui)  | Angular | Curso Fullstack Angular Spring Algaworks
 
 ### Programação Básica
+
 Projeto |  Linguagem/Framework | Origem
 ------- | -------------------- | ------
 [Javascript](https://github.com/alexandretannus/algaworks-mjs) | Javascript | Curso Mergulhando no Javascript Algaworks
 
 ### Materiais de Aulas
+
 Projeto |  Linguagem/Framework | Instituição
 ------- | -------------------- | ------
 [Slides de Aula](https://github.com/alexandretannus/slides-aula) | Latex | Universidade Evangélica de Goiás
