@@ -1,2 +1,16 @@
 theme: jekyll-theme-minimal
 title: Curriculum Vitae
+name: Alexandre Tannus
+
+#Education is required
+education:
+ - level: Bacharelado
+   date: 2011
+   subject: Engenharia de Computação
+   school: Pontifícia Universidade Católica de Goiás
+  
+
+skills:
+  - Java
+  - Spring Boot
+  - MySQL
