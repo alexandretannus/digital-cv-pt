@@ -12,7 +12,7 @@
  
 ## Experiência Profissional
 
-### Docência Universitária
+#### Docência Universitária
 * Faculdade Presidente Antônio Carlos - UNIPAC  
   02/2014 - 06/2014  
   Professor  
@@ -63,7 +63,7 @@
   * Programação Orientada a Objetos com Banco de Dados
 
 
-### Empresas
+#### Empresas
 * ENEL Goiás
   11/2018 - 11/2019
   Desenvolvimento de sistema em Java e Angular
