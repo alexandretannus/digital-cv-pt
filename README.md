@@ -1,5 +1,11 @@
 # Alexandre Moraes Tannus
 
+## Dados Pessoais
+**Data de Nascimento:** 28/01/1988  
+**Local de residência:** Anápolis, Goiás, Brasil  
+**Email:** alexandretannus@gmail.com  
+**LinkedIn:** [https://www.linkedin.com/in/alexandretannus/](https://www.linkedin.com/in/alexandretannus/)
+
 ## Educação
   
 * Bacharelado em Engenharia de Computação  
@@ -63,20 +69,20 @@
   * Programação Orientada a Objetos com Banco de Dados
 
 
-###### Empresas
-* ENEL Goiás
-  11/2018 - 11/2019
+##### Empresas
+* ENEL Goiás  
+  11/2018 - 11/2019  
   Desenvolvimento de sistema em Java e Angular
-* Algaworks
-  11/2020
+* Algaworks  
+  11/2020  
   Tutoria em cursos online de Java, Spring, Angular, Typescript e React
  
 ## Idiomas
-* Português Fluente Nativo
-* Inglês Avançado
+* Português Fluente Nativo  
+* Inglês Avançado  
  
 ## Projetos no Github
-* Backend
+#### Backend
 
 Projeto |  Linguagem/Framework | Origem
 ------- | -------------------- | ------
@@ -84,19 +90,19 @@ Projeto |  Linguagem/Framework | Origem
 [API Algafood](https://github.com/alexandretannus/algaworks-esr) | Java Spring | Curso Especialista Spring Rest
 [API Beerstock](https://github.com/alexandretannus/gft-dio-beerstock)| Java Spring | Bootcamp GFT DIO
 
-* Frontend
+#### Frontend
 
 Projeto |  Linguagem/Framework | Origem
 ------- | -------------------- | ------
 [UI Algamoney](https://github.com/alexandretannus/curso-fullstack-algaworks/tree/master/algamoney-ui)  | Angular | Curso Fullstack Angular Spring Algaworks
 
-* Programação Básica
+#### Programação Básica
 
 Projeto |  Linguagem/Framework | Origem
 ------- | -------------------- | ------
 [Javascript](https://github.com/alexandretannus/algaworks-mjs) | Javascript | Curso Mergulhando no Javascript Algaworks
 
-* Materiais de Aulas
+##### Materiais de Aulas
 
 Projeto |  Linguagem/Framework | Instituição
 ------- | -------------------- | ------
